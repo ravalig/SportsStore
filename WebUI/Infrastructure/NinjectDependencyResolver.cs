@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
 using Ninject;
-
+using Moq;
+using Domain.Abstract;
+using Domain.Entities;
 
 namespace WebUI.Infrastructure
 {
@@ -26,6 +28,14 @@ namespace WebUI.Infrastructure
         private void AddBindings()
         {
             // put bindings here
+
+            Mock<IProductsRepository> mock = new Mock<IProductsRepository>();
+            mock.Setup(m => m.Products).Returns(new List<Product> {
+                    new Product { Name = "Football", Price = 25 },
+                    new Product { Name = "Surf board", Price = 179 },
+                    new Product { Name = "Running shoes", Price = 95 }
+            });
+            kernel.Bind<IProductsRepository>().ToConstant(mock.Object);
         }
     }
 }
