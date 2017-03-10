@@ -1,0 +1,6 @@
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\UnitTests\bin\Debug\UnitTests.dll
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\UnitTests\obj\Debug\UnitTests.dll
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\UnitTests\obj\Debug\UnitTests.pdb

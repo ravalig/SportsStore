@@ -1,0 +1,5 @@
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\Domain\bin\Debug\Domain.dll
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\Domain\bin\Debug\Domain.pdb
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\Domain\obj\Debug\Domain.dll
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\Domain\obj\Debug\Domain.pdb
