@@ -1,4 +1,4 @@
-[assembly: WebActivator.PreApplicationStartMethod(typeof(UnitTests.App_Start.NinjectWebCommon), "Start")]
+/* [assembly: WebActivator.PreApplicationStartMethod(typeof(UnitTests.App_Start.NinjectWebCommon), "Start")]
 [assembly: WebActivator.ApplicationShutdownMethodAttribute(typeof(UnitTests.App_Start.NinjectWebCommon), "Stop")]
 
 namespace UnitTests.App_Start
@@ -56,3 +56,4 @@ namespace UnitTests.App_Start
         }        
     }
 }
+*/
