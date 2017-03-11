@@ -61,3 +61,7 @@ c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\Ninj
 c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\Ninject.Web.Common.xml
 c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\Ninject.Web.Mvc.pdb
 c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\Ninject.Web.Mvc.xml
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\EntityFramework.dll
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\EntityFramework.xml
+c:\users\ravali\documents\visual studio 2015\Projects\SportsStore\WebUI\bin\EntityFramework.SqlServer.xml
